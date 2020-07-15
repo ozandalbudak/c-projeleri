@@ -1,0 +1,27 @@
+D:\TestDevelopment\HafizaOyunu\UI\bin\Debug\UI.exe.config
+D:\TestDevelopment\HafizaOyunu\UI\bin\Debug\UI.exe
+D:\TestDevelopment\HafizaOyunu\UI\bin\Debug\UI.pdb
+D:\TestDevelopment\HafizaOyunu\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\TestDevelopment\HafizaOyunu\UI\obj\Debug\UI.WFMain.resources
+D:\TestDevelopment\HafizaOyunu\UI\obj\Debug\UI.Properties.Resources.resources
+D:\TestDevelopment\HafizaOyunu\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\TestDevelopment\HafizaOyunu\UI\obj\Debug\UI.exe
+D:\TestDevelopment\HafizaOyunu\UI\obj\Debug\UI.pdb
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\bin\Debug\UI.exe.config
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\obj\Debug\UI.exe
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\obj\Debug\UI.pdb
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\bin\Debug\UI.exe
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\bin\Debug\UI.pdb
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\obj\Debug\UI.WFMain.resources
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\mesutpiskin\Desktop\HafizaOyunu\HafizaOyunu\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\bin\Debug\UI.exe.config
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\obj\Debug\UI.exe
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\obj\Debug\UI.pdb
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\bin\Debug\UI.exe
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\bin\Debug\UI.pdb
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\obj\Debug\UI.WFMain.resources
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Belgeler\Programlama Dili 3 Ödevler\HafızaOyunu\HafizaOyunu\UI\obj\Debug\UI.csproj.GenerateResource.Cache

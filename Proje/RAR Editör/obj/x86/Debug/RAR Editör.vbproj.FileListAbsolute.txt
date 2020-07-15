@@ -1,0 +1,12 @@
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\obj\x86\Debug\RAR_Editör.Resources.resources
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\bin\Debug\RAR Editör.exe
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\bin\Debug\RAR Editör.pdb
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\bin\Debug\RAR Editör.xml
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\bin\Debug\UnRARNET.dll
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\obj\x86\Debug\RAR Editör.exe
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\obj\x86\Debug\RAR Editör.xml
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\obj\x86\Debug\RAR Editör.pdb
+C:\Documents and Settings\BERK@Y\Desktop\RAR Editör\RAR Editör\obj\x86\Debug\RAR_Editör.Form1.resources

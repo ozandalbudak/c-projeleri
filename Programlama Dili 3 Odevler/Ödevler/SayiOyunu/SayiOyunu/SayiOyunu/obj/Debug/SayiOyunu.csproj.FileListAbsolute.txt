@@ -1,0 +1,26 @@
+D:\TestDevelopment\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.exe.config
+D:\TestDevelopment\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.exe
+D:\TestDevelopment\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.pdb
+D:\TestDevelopment\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.csprojResolveAssemblyReference.cache
+D:\TestDevelopment\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.Properties.Resources.resources
+D:\TestDevelopment\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.UI.WFNumber.resources
+D:\TestDevelopment\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.csproj.GenerateResource.Cache
+D:\TestDevelopment\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.exe
+D:\TestDevelopment\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.pdb
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.exe.config
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.exe
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.pdb
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.exe
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.pdb
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.csprojResolveAssemblyReference.cache
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.Properties.Resources.resources
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.UI.WFNumber.resources
+C:\Users\mesutpiskin\Desktop\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.csproj.GenerateResource.Cache
+D:\Belgeler\Programlama Dili 3 Ödevler\SayiOyunu\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.exe.config
+D:\Belgeler\Programlama Dili 3 Ödevler\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.exe
+D:\Belgeler\Programlama Dili 3 Ödevler\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.pdb
+D:\Belgeler\Programlama Dili 3 Ödevler\SayiOyunu\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.exe
+D:\Belgeler\Programlama Dili 3 Ödevler\SayiOyunu\SayiOyunu\SayiOyunu\bin\Debug\SayiOyunu.pdb
+D:\Belgeler\Programlama Dili 3 Ödevler\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.Properties.Resources.resources
+D:\Belgeler\Programlama Dili 3 Ödevler\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.UI.WFNumber.resources
+D:\Belgeler\Programlama Dili 3 Ödevler\SayiOyunu\SayiOyunu\SayiOyunu\obj\Debug\SayiOyunu.csproj.GenerateResource.Cache

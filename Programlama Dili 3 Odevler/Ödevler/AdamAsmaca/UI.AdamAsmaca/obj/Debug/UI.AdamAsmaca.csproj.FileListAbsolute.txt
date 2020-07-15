@@ -1,0 +1,13 @@
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\bin\Debug\UI.AdamAsmaca.exe.config
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\bin\Debug\UI.AdamAsmaca.exe
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\bin\Debug\UI.AdamAsmaca.pdb
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\obj\Debug\UI.AdamAsmaca.csprojResolveAssemblyReference.cache
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\obj\Debug\UI.AdamAsmaca.WFMain.resources
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\obj\Debug\UI.AdamAsmaca.Properties.Resources.resources
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\obj\Debug\UI.AdamAsmaca.csproj.GenerateResource.Cache
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\obj\Debug\UI.AdamAsmaca.exe
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\obj\Debug\UI.AdamAsmaca.pdb
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\bin\Debug\MODEL.AdamAsmaca.dll
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\bin\Debug\MODEL.AdamAsmaca.pdb
+C:\Users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\obj\Debug\UI.AdamAsmaca.WFSettings.resources
+C:\Users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\UI.AdamAsmaca\obj\Debug\UI.AdamAsmaca.WFScoreList.resources

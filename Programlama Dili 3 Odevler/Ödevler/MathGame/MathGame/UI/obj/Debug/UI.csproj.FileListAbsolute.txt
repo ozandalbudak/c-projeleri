@@ -1,0 +1,30 @@
+D:\TestDevelopment\MathGame\UI\bin\Debug\UI.exe.config
+D:\TestDevelopment\MathGame\UI\bin\Debug\UI.exe
+D:\TestDevelopment\MathGame\UI\bin\Debug\UI.pdb
+D:\TestDevelopment\MathGame\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\TestDevelopment\MathGame\UI\obj\Debug\UI.Properties.Resources.resources
+D:\TestDevelopment\MathGame\UI\obj\Debug\UI.WFMain.resources
+D:\TestDevelopment\MathGame\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\TestDevelopment\MathGame\UI\obj\Debug\UI.exe
+D:\TestDevelopment\MathGame\UI\obj\Debug\UI.pdb
+D:\TestDevelopment\MathGame\UI\obj\Debug\UI.WFGamePlay.resources
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\bin\Debug\UI.exe.config
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\obj\Debug\UI.exe
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\obj\Debug\UI.pdb
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\bin\Debug\UI.exe
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\bin\Debug\UI.pdb
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\obj\Debug\UI.WFGamePlay.resources
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\obj\Debug\UI.WFMain.resources
+C:\Users\mesutpiskin\Desktop\MathGame\MathGame\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\bin\Debug\UI.exe.config
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\obj\Debug\UI.exe
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\obj\Debug\UI.pdb
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\bin\Debug\UI.exe
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\bin\Debug\UI.pdb
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\obj\Debug\UI.WFGamePlay.resources
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\obj\Debug\UI.WFMain.resources
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\Belgeler\Programlama Dili 3 Ödevler\MathGame\MathGame\UI\obj\Debug\UI.AdamAsmaca.WFScoreList.resources

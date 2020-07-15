@@ -1,0 +1,4 @@
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\MODEL.AdamAsmaca\bin\Debug\MODEL.AdamAsmaca.dll
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\MODEL.AdamAsmaca\bin\Debug\MODEL.AdamAsmaca.pdb
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\MODEL.AdamAsmaca\obj\Debug\MODEL.AdamAsmaca.dll
+c:\users\mesutpiskin\documents\visual studio 2015\Projects\AdamAsmaca\MODEL.AdamAsmaca\obj\Debug\MODEL.AdamAsmaca.pdb
